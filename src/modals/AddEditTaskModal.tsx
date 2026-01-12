@@ -23,8 +23,8 @@ function AddEditTaskModal({setIsTaskModalOpen, taskType , device,setIsAddTaskMod
     const dispatch = useDispatch()
     const board = useSelector((state : RootState) => state.board.boards).find(board => board.isActive)
     const columns = board?.columns
-    const col = columns?.find((_col, index) => index === prevColIndex)
-    const task = col ? col.tasks.find((_task, index) => index === taskIndex) : []
+    //const col = columns?.find((_col, index) => index === prevColIndex)
+    //const task = col ? col.tasks.find((_task, index) => index === taskIndex) : []
     const [title, setTitle] = useState<string>("")
     const [description, setDescription] = useState<string>("")
     const [status, setStatus] = useState<string>( columns?.[prevColIndex]?.name || "")
