@@ -11,15 +11,15 @@ This Kanban Board application provides an intuitive and efficient way to manage 
 - **Modern Tech Stack**: Developed using React, TypeScript, TailwindCSS, and Redux Toolkit.
 
 ## Deployment
-- **GitHub Repository**: [Kanban Board Frontend Repository](https://github.com/Vijayeswar-Yalamanchili/Kanban-Board_FE)
-- **Live Demo**: [Kanban Board Application](https://kanban-board-fe-i2aw.vercel.app/)
+- **GitHub Repository**: [Kanban Board Frontend Repository](https://github.com/manish8285/kanban-board)
+- **Live Demo**: [Kanban Board Application]()
 
 ## Instructions to Run the Application Locally
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Vijayeswar-Yalamanchili/Kanban-Board_FE.git
-   cd Kanban-Board_FE
+   git clone https://github.com/manish8285/kanban-board.git
+   cd kanban-board
    ```
 
 2. **Install Dependencies**:
