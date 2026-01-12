@@ -12,7 +12,7 @@ This Kanban Board application provides an intuitive and efficient way to manage 
 
 ## Deployment
 - **GitHub Repository**: [Kanban Board Frontend Repository](https://github.com/manish8285/kanban-board)
-- **Live Demo**: [Kanban Board Application]()
+- **Live Demo**: [Kanban Board Application](https://kanban-board-4tjn0i5zf-manish8285s-projects.vercel.app/)
 
 ## Instructions to Run the Application Locally
 
